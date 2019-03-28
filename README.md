@@ -4,7 +4,6 @@
 
 [![Language: English](img/badges/language-english.svg)](https://github.com/EticaAI/forum) [![Idioma: Português](img/badges/language-portuguese.svg)](https://pt.etica.ai/)
 
-![Situação deste documento: Trabalho em progresso](img/badges/status-work-in-progress.svg)
 **Etica.AI preocupa-se com implicações sociais e éticas de inteligência
 artificial de longo prazo na Africa e América Latina. Atua apoiando movimentos
 de base.**
@@ -13,140 +12,169 @@ de base.**
 
 <!-- TOC depthFrom:2 depthTo:5 -->
 
-- [The Etica.AI organization](#the-eticaai-organization)
-- [The EticaAI sites](#the-eticaai-sites)
-    - [ais-ethics-open-groups](#ais-ethics-open-groups)
-    - [ais-ethics-orgs](#ais-ethics-orgs)
-    - [ais-ethics-standards](#ais-ethics-standards)
-    - [awesome-humanitarian-foss](#awesome-humanitarian-foss)
-    - [confianca](#confianca)
-    - [codigo-de-etica-brasil](#codigo-de-etica-brasil)
-    - [cplp-contexto-tecnologico-etica-ai](#cplp-contexto-tecnologico-etica-ai)
-    - [docs.etica.ai](#docseticaai)
-    - [etica.ai](#eticaai)
-    - [forum](#forum)
-    - [recursos-desenvolvimento-periferia](#recursos-desenvolvimento-periferia)
-    - [Other projects](#other-projects)
-- [Discussion forums](#discussion-forums)
+- [A organização Etica.AI](#a-organização-eticaai)
+- [Sites](#sites)
+    - [Sites em português](#sites-em-português)
+        - [confianca](#confianca)
+        - [codigo-de-etica-brasil](#codigo-de-etica-brasil)
+        - [cplp-contexto-tecnologico-etica-ai](#cplp-contexto-tecnologico-etica-ai)
+        - [docs.etica.ai/pt](#docseticaaipt)
+        - [pt.etica.ai](#pteticaai)
+        - [recursos-desenvolvimento-periferia](#recursos-desenvolvimento-periferia)
+    - [Sites em espanhol](#sites-em-espanhol)
+        - [docs.etica.ai/es](#docseticaaies)
+    - [Sites internacionais](#sites-internacionais)
+        - [ais-ethics-open-groups](#ais-ethics-open-groups)
+        - [ais-ethics-orgs](#ais-ethics-orgs)
+        - [ais-ethics-standards](#ais-ethics-standards)
+        - [awesome-humanitarian-foss](#awesome-humanitarian-foss)
+        - [docs.etica.ai](#docseticaai)
+        - [etica.ai](#eticaai)
+        - [forum](#forum)
+- [Outros projetos](#outros-projetos)
+- [Fóruns de discussão](#fóruns-de-discussão)
     - [Managed by EticaAI](#managed-by-eticaai)
         - [EticaAI/forum on GitHub (Languague used: English)](#eticaaiforum-on-github-languague-used-english)
         - [Other options (Languague used: local language)](#other-options-languague-used-local-language)
 
 <!-- /TOC -->
 
-## The Etica.AI organization
-- [GitHub Organization: EticaAI](https://github.com/EticaAI)
-- [Facebook Page: Etica.AI](https://www.facebook.com/EticaAI)
-- [Twitter Account: EticaAI](https://twitter.com/EticaAI)
-- [LinkedIn Organization: etica-ai](https://www.linkedin.com/company/etica-ai/)
-- [Etica.AI Forum](https://github.com/EticaAI/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+## A organização Etica.AI
+- [Organização no GitHub: EticaAI](https://github.com/EticaAI)
+- [Página no Facebook: EticaAI](https://www.facebook.com/EticaAI)
+- [Conta no Twitter: EticaAI](https://twitter.com/EticaAI)
+- [Organização no LinkedIn: etica-ai](https://www.linkedin.com/company/etica-ai/)
 - E-mail: **etica.of.a.ai(at)gmail.com**
 
-## The EticaAI sites
-<!--
-Note: some projects can go forward, others can be archived without advancing
-incubation phase. **We do not delete them**, but we can move to another
-organization or person account or, in special for ideas that were very complex,
-eventualy they become reference for a more mature project.
--->
+## Sites
 
-Note: projects **that are not hosted yet** on the EticaAI organization on
-GitHub must necessarily have at least one **friendly license** (we like to use
-Public Domain) and have as one of the maintainers someone we trust. This also
-means that they **must respect EticaAI code of conduct**, even if the project
-lack of the specific file.
+Note: mesmo projetos que não estejam atualmente na organização do Etica.AI no
+GitHub devem 1) ter uma licença de uso amigável (gostamos de usar Domínio
+Público), 2) ter ao menos uma das pessoas mantenedoras alguém que confiamos e
+3) ter um código de conduda compatível com usados na EticaAI.
 
-### ais-ethics-open-groups
-> Curated list of Open Groups (accessible to persons who are not yet experts
-and do not require association with an institution) to discuss Ethics of
-Autonomous and Intelligent Systems (A/IS)
+### Sites em português
 
-- GitHub: <https://github.com/fititnt/ais-ethics-open-groups>
-- Public Website: <https://groups.etica.ai>
+#### confianca
+> Um guia interativo para a teoria dos jogos da cooperação
 
-### ais-ethics-orgs
-> Curated list of organizations related to Ethics in Artificial Intelligence and
-Autonomous Systems (AI/AS)
-
-- GitHub: <https://github.com/fititnt/ais-ethics-orgs>
-- Public Website: <https://organizations.etica.ai>
-
-### ais-ethics-standards
-> Curated list of standards related to Ethics of Autonomous and Intelligent
-Systems (A/IS)
-
-- GitHub: <https://github.com/fititnt/ais-ethics-standards>
-- Public Website: <https://standards.etica.ai>
-
-### awesome-humanitarian-foss
-> [work-in-progress] Curated list of HFOSS (Humanitarian Free and Open Source
-Software) who are very welcome to external developers contributions.
-
-- GitHub: <https://github.com/EticaAI/awesome-humanitarian-foss>
-- Public Website: <https://hfoss.etica.ai>
-
-### confianca
-> [Portuguese] Um guia interativo para a teoria dos jogos da cooperação
-
+- Site: <https://confianca.etica.ai>
 - GitHub: <https://github.com/EticaAI/confianca>
-- Public Website: <https://confianca.etica.ai>
 
-### codigo-de-etica-brasil
+#### codigo-de-etica-brasil
 > Lista de Códigos de Ética usados no Brasil. Feito para eticistas e/ou
 desenvolvedores de Sistemas Autônomos e Inteligentes (S/AS)
 
+- Site: <https://brasil.etica.ai>
 - GitHub: <https://github.com/fititnt/codigo-de-etica-brasil>
-- Public Website: <https://brasil.etica.ai>
 
-### cplp-contexto-tecnologico-etica-ai
+#### cplp-contexto-tecnologico-etica-ai
 > Contexto tecnológico para fomento de Ética na Inteligência Artificial na
 Comunidade dos Países de Língua Portuguesa (CPLP): Angola, Brasil, Cabo Verde,
 Guiné Equatorial, Guiné-Bissau, Macau (*), Moçambique, Portugal, São Tomé e
 Príncipe e Timor-Leste.
 
+- Site: <https://cplp.etica.ai>
 - GitHub: <https://github.com/fititnt/cplp-contexto-tecnologico-etica-ai>
-- Public Website: <https://cplp.etica.ai>
 
-### docs.etica.ai
-> Document repository of Etica.AI. It's final objective is to catalog reliable
-translations in the Spanish and Portuguese languages of reference documents.
-The topic of interest involves  responsible application of automation and
-artificial intelligence.
+#### docs.etica.ai/pt
+> Repositório de documentos da Etica.AI. Tem como objetivo final catalogar
+traduções confiáveis nos idiomas espanhol e português de documentos de
+referência. O tema de interesse envolve aplicação responsável de automação e
+inteligência artificial.
 
+- Site: <https://docs.etica.ai/pt/>
 - GitHub: <https://github.com/EticaAI/docs.etica.ai>
-- Public Website: <https://docs.etica.ai>
 
-### etica.ai
-> etica.ai root website. Discussions at <https://github.com/EticaAI/forum>
+#### pt.etica.ai
+> Site da organização Etica.AI em português.
 
-- GitHub: <https://github.com/EticaAI/forum/tree/master/docs>
-- Public Website: <https://etica.ai>
+- Site: <https://pt.etica.ai>
+- GitHub: <https://github.com/EticaAI/pt.etica.ai>
 
-### forum
-> This (for now) point to the same repository of this README.md file under the
-`docs/` folder. It only exist for users who visit http://forum.etica.ai be
-redirected to <https://github.com/EticaAI/forum>. And maybe on future use
-a different platform for host issues.
-
-- GitHub: <https://github.com/EticaAI/forum/tree/master/docs>
-- Public Website: <http://forum.etica.ai>
-
-### recursos-desenvolvimento-periferia
+#### recursos-desenvolvimento-periferia
 > Recursos para pessoas desenvolvedoras de periferia
 
-- GitHub: <https://github.com/fititnt/recursos-desenvolvimento-periferia> (*)
 - Website: <https://periferia.etica.ai>
+- GitHub: <https://github.com/fititnt/recursos-desenvolvimento-periferia> (*)
 
 Note: the periferia.etica.ai github project, at least on the beginning, is
 closed. One of the main reasons is prepare the project with feedback from
 several individuals.
 
-### Other projects
-We have some other projects both on GitHub and outside that do not have public
-website, or the URL is not a subdomain of etica.ai. At this moment they are not
-listed here.
+### Sites em espanhol
 
-## Discussion forums
+#### docs.etica.ai/es
+> Este es un repositorio de documentos de Etica.AI. El objetivo final de este
+proyecto es catalogar traducciones confiables en los idiomas español y
+portugués de documentos de referencia. El tema de interés implica la aplicación
+responsable de la automatización y la inteligencia artificial.
+
+- Site: <https://docs.etica.ai/es/>
+- GitHub: <https://github.com/EticaAI/docs.etica.ai>
+
+### Sites internacionais
+
+#### ais-ethics-open-groups
+> Curated list of Open Groups (accessible to persons who are not yet experts
+and do not require association with an institution) to discuss Ethics of
+Autonomous and Intelligent Systems (A/IS)
+
+- Site: <https://groups.etica.ai>
+- GitHub: <https://github.com/fititnt/ais-ethics-open-groups>
+
+#### ais-ethics-orgs
+> Curated list of organizations related to Ethics in Artificial Intelligence and
+Autonomous Systems (AI/AS)
+
+- Site: <https://organizations.etica.ai>
+- GitHub: <https://github.com/fititnt/ais-ethics-orgs>
+
+#### ais-ethics-standards
+> Curated list of standards related to Ethics of Autonomous and Intelligent
+Systems (A/IS)
+
+- Site: <https://standards.etica.ai>
+- GitHub: <https://github.com/fititnt/ais-ethics-standards>
+
+#### awesome-humanitarian-foss
+> [work-in-progress] Curated list of HFOSS (Humanitarian Free and Open Source
+Software) who are very welcome to external developers contributions.
+
+- Site: <https://hfoss.etica.ai>
+- GitHub: <https://github.com/EticaAI/awesome-humanitarian-foss>
+
+#### docs.etica.ai
+> Document repository of Etica.AI. It's final objective is to catalog reliable
+translations in the Spanish and Portuguese languages of reference documents.
+The topic of interest involves  responsible application of automation and
+artificial intelligence.
+
+- Site: <https://docs.etica.ai>
+- GitHub: <https://github.com/EticaAI/docs.etica.ai>
+
+#### etica.ai
+> etica.ai root website. Discussions at <https://github.com/EticaAI/forum>
+
+- Site: <https://etica.ai>
+- GitHub: <https://github.com/EticaAI/forum/tree/master/docs>
+
+#### forum
+> This (for now) point to the same repository of this README.md file under the
+`docs/` folder. It only exist for users who visit http://forum.etica.ai be
+redirected to <https://github.com/EticaAI/forum>. And maybe on future use
+a different platform for host issues.
+
+- Site: <http://forum.etica.ai>
+- GitHub: <https://github.com/EticaAI/forum/tree/master/docs>
+
+## Outros projetos
+Nos temos projetos tanto no GitHub como fora dele que não tem site público.
+Neste momento eles são listados aqui.
+
+## Fóruns de discussão
+![Situação deste documento: Trabalho em progresso](img/badges/status-work-in-progress.svg)
+Esta área do documento está sendo escrita e/ou traduzida.
 
 ### Managed by EticaAI
 
