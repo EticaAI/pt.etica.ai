@@ -1,6 +1,6 @@
 # pt.etica.ai
 
-[![A Organização Etica.AI](img/banner-pt-etica-ai.png)](https://pt.etica.ai/)
+[![A Organização Etica.AI](img/banner-pt-etica-ai.png?2)](https://pt.etica.ai/)
 
 [![Language: English](img/badges/language-english.svg)](https://github.com/EticaAI/forum) [![Idioma: Português](img/badges/language-portuguese.svg)](https://pt.etica.ai/)
 
@@ -19,6 +19,7 @@ de base.**
         - [codigo-de-etica-brasil](#codigo-de-etica-brasil)
         - [cplp-contexto-tecnologico-etica-ai](#cplp-contexto-tecnologico-etica-ai)
         - [docs.etica.ai/pt](#docseticaaipt)
+        - [linguistic-datasets-pt](#linguistic-datasets-pt)
         - [pt.etica.ai](#pteticaai)
         - [recursos-desenvolvimento-periferia](#recursos-desenvolvimento-periferia)
     - [Sites em espanhol](#sites-em-espanhol)
@@ -84,6 +85,15 @@ referência. O tema de interesse envolve aplicação responsável de automação
 inteligência artificial.
 
 - Site: <https://docs.etica.ai/pt/>
+- GitHub: <https://github.com/EticaAI/docs.etica.ai>
+
+#### linguistic-datasets-pt
+> Linguistic Datasets for Portuguese: conjuntos de dados linguísticos para
+português (pt-AO, pt-BR pt-MZ e pt-PT) com licenças flexíveis: banco de dados,
+lista de palavras, sinônimos, antônimos, dicionário temático, tesauro,
+linked data, semântica, ontologia e representação de conhecimento.
+
+- Site: <https://linguistic-datasets-pt.etica.ai>
 - GitHub: <https://github.com/EticaAI/docs.etica.ai>
 
 #### pt.etica.ai
@@ -171,6 +181,22 @@ a different platform for host issues.
 ## Outros projetos
 Nos temos projetos tanto no GitHub como fora dele que não tem site público.
 Neste momento eles são listados aqui.
+
+<!--
+
+- https://github.com/fititnt/internationalization-localization-references
+- https://github.com/fititnt/linguistic-datasets-portuguese (agora já faz parte do etica-ai)
+- https://github.com/fititnt/agentes-inteligentes
+- https://github.com/fititnt/chatops-wg
+- https://github.com/fititnt/lego-da-automacao
+- https://github.com/fititnt/awesome-aiops
+- https://github.com/fititnt/grupo-juvenil-de-ciencia-aplicada-em-alta-tecnologia
+
+- https://github.com/fititnt/ais-ethics-l10n (privado)
+- https://github.com/fititnt/ai-ethics-digital-inclusion (privado)
+- https://github.com/fititnt/learn-and-code-ON-phone-offline (privado)
+
+-->
 
 ## Fóruns de discussão
 ![Situação deste documento: Trabalho em progresso](img/badges/status-work-in-progress.svg)
