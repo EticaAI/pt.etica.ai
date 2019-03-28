@@ -1,8 +1,13 @@
 # pt.etica.ai
 
+[![A Organização Etica.AI](img/banner-pt-etica-ai.png)](https://pt.etica.ai/)
+
+[![Language: English](img/badges/language-english.svg)](https://github.com/EticaAI/forum) [![Idioma: Português](img/badges/language-portuguese.svg)](https://pt.etica.ai/)
+
 ![Situação deste documento: Trabalho em progresso](img/badges/status-work-in-progress.svg)
-**Etica.AI is concerned about long-term social & ethical implications of
-artificial intelligence on Africa/Latin America. Do it via grassroots acts in short-term.**
+**Etica.AI preocupa-se com implicações sociais e éticas de inteligência
+artificial de longo prazo na Africa e América Latina. Atua apoiando movimentos
+de base.**
 
 # Índice de conteúdo
 
