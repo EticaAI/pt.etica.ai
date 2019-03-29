@@ -9,11 +9,15 @@ artificial de longo prazo na Africa e América Latina. A curto prazo atua
 apoiando movimentos de base.**
 
 É diretamente gerenciada por um grupo muito pequeno, porém determinado, de
-africanos e latino-americanos. Essas mesmas pessoas procuram cooperar desde
-[comunidades de tecnologia no Facebook ➚](https://www.facebook.com/groups/) a
-até mesmo como membros ativos de [iniciativa global onde especialistas do mundo
-inteiro buscam consenso sobre padrões de éticas no uso de sistemas autonomôs e
-inteligentes ➚](https://ethicsinaction.ieee.org/).
+africanos e latino-americanos. Procuramos cooperar desde algo que
+pode parecer trivial (porém, entendemos como uma ação de base importante) como o
+apoio a pessoas mediadoras/promotoras de [comunidades de tecnologia já existentes no Facebook ➚](https://www.facebook.com/groups/)
+como até mesmo nos organizando e atuando como membros ativos na [principal
+iniciativa global onde especialistas do mundo inteiro buscam consenso sobre
+padrões éticos em implementações de sistemas autônomos e inteligentes ➚](https://ethicsinaction.ieee.org/).
+Nossa atuação tende a ser indireta (isto é, pessoas desenvolvedores típicas
+de tecnologia não precisam saber que existimos), porém geralmente são **ações que potencialmente maximizam
+o impacto positivo de uso de tecnologia na sociedade**.
 
 # Índice de conteúdo
 
