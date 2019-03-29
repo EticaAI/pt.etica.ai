@@ -1,12 +1,19 @@
-# pt.etica.ai
+# Organização Etica.AI
 
 [![A Organização Etica.AI](img/banner-pt-etica-ai.png?2)](https://pt.etica.ai/)
 
 [![Language: English](img/badges/language-english.svg)](https://github.com/EticaAI/forum) [![Idioma: Português](img/badges/language-portuguese.svg)](https://pt.etica.ai/)
 
 **Etica.AI preocupa-se com implicações sociais e éticas de inteligência
-artificial de longo prazo na Africa e América Latina. Atua apoiando movimentos
-de base.**
+artificial de longo prazo na Africa e América Latina. A curto prazo atua
+apoiando movimentos de base.**
+
+É diretamente gerenciada por um grupo muito pequeno, porém determinado, de
+africanos e latino-americanos. Essas mesmas pessoas procuram cooperar desde
+[comunidades de tecnologia no Facebook ➚](https://www.facebook.com/groups/) a
+até mesmo como membros ativos de [iniciativa global onde especialistas do mundo
+inteiro buscam consenso sobre padrões de éticas no uso de sistemas autonomôs e
+inteligentes ➚](https://ethicsinaction.ieee.org/).
 
 # Índice de conteúdo
 
