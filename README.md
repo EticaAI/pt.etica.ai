@@ -32,15 +32,18 @@ o impacto positivo de uso de tecnologia na sociedade**.
         - [docs.etica.ai/pt](#docseticaaipt)
         - [linguistic-datasets-pt](#linguistic-datasets-pt)
         - [pt.etica.ai](#pteticaai)
+        - [tags.etica.ai/#português](#tagseticaaiportuguês)
         - [recursos-desenvolvimento-periferia](#recursos-desenvolvimento-periferia)
     - [Sites em espanhol](#sites-em-espanhol)
         - [docs.etica.ai/es](#docseticaaies)
+        - [tags.etica.ai/#español](#tagseticaaiespañol)
     - [Sites internacionais](#sites-internacionais)
         - [ais-ethics-open-groups](#ais-ethics-open-groups)
         - [ais-ethics-orgs](#ais-ethics-orgs)
         - [ais-ethics-standards](#ais-ethics-standards)
         - [awesome-humanitarian-foss](#awesome-humanitarian-foss)
         - [docs.etica.ai](#docseticaai)
+        - [tags.etica.ai](#tagseticaai)
         - [etica.ai](#eticaai)
         - [forum](#forum)
 - [Outros projetos](#outros-projetos)
@@ -60,10 +63,10 @@ o impacto positivo de uso de tecnologia na sociedade**.
 
 ## Sites
 
-Note: mesmo projetos que não estejam atualmente na organização do Etica.AI no
-GitHub devem 1) ter uma licença de uso amigável (gostamos de usar Domínio
-Público), 2) ter ao menos uma das pessoas mantenedoras alguém que confiamos e
-3) ter um código de conduda compatível com usados na EticaAI.
+Note: mesmo projetos que não estejam atualmente na [organização do Etica.AI no GitHub](https://github.com/EticaAI)
+devem 1) ter uma licença de uso amigável (gostamos de usar Domínio Público), 2)
+ter ao menos uma das pessoas mantenedoras alguém que confiamos e 3) ter um
+código de conduda compatível com usados na EticaAI.
 
 ### Sites em português
 
@@ -113,6 +116,15 @@ linked data, semântica, ontologia e representação de conhecimento.
 - Site: <https://pt.etica.ai>
 - GitHub: <https://github.com/EticaAI/pt.etica.ai>
 
+#### tags.etica.ai/#português
+> A/IS Ethics Tags - Etica.AI é uma iniciativa para facilitar busca de conteúdo
+em redes sociais e projetos no GitHub relacionados a Ética no uso Sistemas
+Autônomos e Inteligentes, o que inclui Ética na Inteligência Artificial e
+implicações sociais no uso de tecnologia.
+
+- Website: <https://tags.etica.ai/#português>
+- GitHub: <https://github.com/fititnt/ais-ethics-tags> <sup>(repositório fechado: fase de feedbacks; mudanças drásticas podem ocorrer)</sup>
+
 #### recursos-desenvolvimento-periferia
 > Recursos para pessoas desenvolvedoras de periferia
 
@@ -133,6 +145,12 @@ responsable de la automatización y la inteligencia artificial.
 
 - Site: <https://docs.etica.ai/es/>
 - GitHub: <https://github.com/EticaAI/docs.etica.ai>
+
+#### tags.etica.ai/#español
+> _Sin descripción en español en este momento._
+
+- Website: <https://tags.etica.ai/#español>
+- GitHub: <https://github.com/fititnt/ais-ethics-tags> <sup>(closed repository: feedbacks phase; drastic changes may occur)</sup>
 
 ### Sites internacionais
 
@@ -173,6 +191,16 @@ artificial intelligence.
 
 - Site: <https://docs.etica.ai>
 - GitHub: <https://github.com/EticaAI/docs.etica.ai>
+
+
+#### tags.etica.ai
+> A/IS Ethics Tags - Etica.AI is an initiative to facilitate search of content
+in social networks and GitHub projects related to Ethics of Autonomous and
+Intelligent Systems (A/IS Ethics). This includes Ethics of Artificial
+Intelligence and social implications in the use of technology.
+
+- Website: <https://tags.etica.ai>
+- GitHub: <https://github.com/fititnt/ais-ethics-tags> <sup>(closed repository: feedbacks phase; drastic changes may occur)</sup>
 
 #### etica.ai
 > etica.ai root website. Discussions at <https://github.com/EticaAI/forum>
