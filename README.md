@@ -2,7 +2,7 @@
 
 [![A Organização Etica.AI](img/banner-pt-etica-ai.png?2)](https://pt.etica.ai/)
 
-[![Language: English](img/badges/language-english.svg)](https://github.com/EticaAI/forum) [![Idioma: Português](img/badges/language-portuguese.svg)](https://pt.etica.ai/)
+[![Language: English](img/badges/language-english.svg)](https://github.com/EticaAI/forum) [![Idioma: Português](img/badges/language-portuguese.svg)](https://pt.etica.ai/) [![GitHub: EticaAI/pt.etica.ai](img/badges/github.svg)](https://github.com/EticaAI/pt.etica.ai) [![Website: pt.etica.ai](img/badges/website.svg)](https://pt.etica.ai/)
 
 **Etica.AI preocupa-se com implicações sociais e éticas de inteligência
 artificial de longo prazo na Africa e América Latina. A curto prazo atua
@@ -26,9 +26,9 @@ o impacto positivo de uso de tecnologia na sociedade**.
 - [A organização Etica.AI](#a-organização-eticaai)
 - [Sites](#sites)
     - [Sites em português](#sites-em-português)
+        - [ais-ethics-cplp](#ais-ethics-cplp)
         - [confianca](#confianca)
         - [codigo-de-etica-brasil](#codigo-de-etica-brasil)
-        - [cplp-contexto-tecnologico-etica-ai](#cplp-contexto-tecnologico-etica-ai)
         - [docs.etica.ai/pt](#docseticaaipt)
         - [linguistic-datasets-pt](#linguistic-datasets-pt)
         - [pt.etica.ai](#pteticaai)
@@ -70,6 +70,16 @@ código de conduda compatível com usados na EticaAI.
 
 ### Sites em português
 
+
+#### ais-ethics-cplp
+> Contexto tecnológico para fomento de Ética na Inteligência Artificial na
+Comunidade dos Países de Língua Portuguesa (CPLP): Angola, Brasil, Cabo Verde,
+Guiné Equatorial, Guiné-Bissau, Macau, Moçambique, Portugal, São Tomé e Príncipe
+e Timor-Leste
+
+- Site: <https://cplp.etica.ai>
+- GitHub: <https://github.com/EticaAI/ais-ethics-cplp>
+
 #### confianca
 > Um guia interativo para a teoria dos jogos da cooperação
 
@@ -82,15 +92,6 @@ desenvolvedores de Sistemas Autônomos e Inteligentes (S/AS)
 
 - Site: <https://brasil.etica.ai>
 - GitHub: <https://github.com/fititnt/codigo-de-etica-brasil>
-
-#### cplp-contexto-tecnologico-etica-ai
-> Contexto tecnológico para fomento de Ética na Inteligência Artificial na
-Comunidade dos Países de Língua Portuguesa (CPLP): Angola, Brasil, Cabo Verde,
-Guiné Equatorial, Guiné-Bissau, Macau (*), Moçambique, Portugal, São Tomé e
-Príncipe e Timor-Leste.
-
-- Site: <https://cplp.etica.ai>
-- GitHub: <https://github.com/fititnt/cplp-contexto-tecnologico-etica-ai>
 
 #### docs.etica.ai/pt
 > Repositório de documentos da Etica.AI. Tem como objetivo final catalogar
@@ -123,7 +124,7 @@ Autônomos e Inteligentes, o que inclui Ética na Inteligência Artificial e
 implicações sociais no uso de tecnologia.
 
 - Website: <https://tags.etica.ai/#português>
-- GitHub: <https://github.com/fititnt/ais-ethics-tags> <sup>(repositório fechado: fase de feedbacks; mudanças drásticas podem ocorrer)</sup>
+- GitHub: <https://github.com/fititnt/ais-ethics-tags>
 
 #### recursos-desenvolvimento-periferia
 > Recursos para pessoas desenvolvedoras de periferia
@@ -150,7 +151,7 @@ responsable de la automatización y la inteligencia artificial.
 > _Sin descripción en español en este momento._
 
 - Website: <https://tags.etica.ai/#español>
-- GitHub: <https://github.com/fititnt/ais-ethics-tags> <sup>(closed repository: feedbacks phase; drastic changes may occur)</sup>
+- GitHub: <https://github.com/fititnt/ais-ethics-tags>
 
 ### Sites internacionais
 
@@ -200,7 +201,7 @@ Intelligent Systems (A/IS Ethics). This includes Ethics of Artificial
 Intelligence and social implications in the use of technology.
 
 - Website: <https://tags.etica.ai>
-- GitHub: <https://github.com/fititnt/ais-ethics-tags> <sup>(closed repository: feedbacks phase; drastic changes may occur)</sup>
+- GitHub: <https://github.com/fititnt/ais-ethics-tags>
 
 #### etica.ai
 > etica.ai root website. Discussions at <https://github.com/EticaAI/forum>

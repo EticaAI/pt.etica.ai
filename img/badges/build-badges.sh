@@ -9,3 +9,6 @@
 python -m pybadges --left-text='Situação deste documento' --right-text='Trabalho em progresso' --right-color='#FF773D' > status-work-in-progress.svg
 python -m pybadges --left-text='Idioma' --right-text='Português' --right-color='#1E90FF' > language-portuguese.svg
 python -m pybadges --left-text='Language' --right-text='English' --right-color='#1E90FF' > language-english.svg
+
+python -m pybadges --left-text='GitHub' --right-text='EticaAI/pt.etica.ai' --right-color='#237c02' > github.svg
+python -m pybadges --left-text='Website' --right-text='pt.etica.ai' --right-color='#237c02' > website.svg
