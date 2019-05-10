@@ -30,10 +30,11 @@ o impacto positivo de uso de tecnologia na sociedade**.
         - [confianca](#confianca)
         - [codigo-de-etica-brasil](#codigo-de-etica-brasil)
         - [docs.etica.ai/pt](#docseticaaipt)
+        - [ftp.etica.ai/pt](#ftpeticaaipt)
+        - [inclusao.etica.ai](#inclusaoeticaai)
         - [linguistic-datasets-pt](#linguistic-datasets-pt)
         - [pt.etica.ai](#pteticaai)
         - [tags.etica.ai/#português](#tagseticaaiportuguês)
-        - [recursos-desenvolvimento-periferia](#recursos-desenvolvimento-periferia)
     - [Sites em espanhol](#sites-em-espanhol)
         - [docs.etica.ai/es](#docseticaaies)
         - [tags.etica.ai/#español](#tagseticaaiespañol)
@@ -43,6 +44,10 @@ o impacto positivo de uso de tecnologia na sociedade**.
         - [ais-ethics-standards](#ais-ethics-standards)
         - [awesome-humanitarian-foss](#awesome-humanitarian-foss)
         - [docs.etica.ai](#docseticaai)
+        - [ftp.etica.ai](#ftpeticaai)
+            - [Mount ftp.etica.ai as one read-only local disk (RECOMMENDED!)](#mount-ftpeticaai-as-one-read-only-local-disk-recommended)
+            - [Access via HTTPS (or HTTP)](#access-via-https-or-http)
+            - [Where the files are stored?](#where-the-files-are-stored)
         - [tags.etica.ai](#tagseticaai)
         - [etica.ai](#eticaai)
         - [forum](#forum)
@@ -102,6 +107,45 @@ inteligência artificial.
 - Site: <https://docs.etica.ai/pt/>
 - GitHub: <https://github.com/EticaAI/docs.etica.ai>
 
+#### ftp.etica.ai/pt
+
+> Repositório de documentos de propósito geral da Etica.AI. Pode ser acessado
+tanto por FTP e FTP seguro de forma anônima, como por HTTP e HTTPS.
+>
+> O acesso FTP/SFTP (e toda estrutura de diretórios) é planejada considerando
+acesso por pessoas que podem ter limitação de espaço em disco e serve como
+alternativa para montar o FTP/SFTP remoto como uma abstração de disco local.
+Como referência, o tamanho de disco de 4GB é popular em smartphones Android
+em regiões na Africa.
+>
+> **O acesso HTTP/HTTPS permite donwnload de arquivos ou pastas inteiras como
+arquivo comprimido**. Embora não seja tão eficiente quanto FTP/SFTP, a
+tecnologia usada para exibir a funcionalidade é otimizada para baixo uso de
+dados (detalhes em <https://github.com/EticaAI/forum/issues/74> <sup>(destino
+em inglês)</sup>).
+
+
+- Site:
+  - HTTPS: <https://livros.etica.ai/pt/>
+  - HTTP: <http://livros.etica.ai/pt/>
+  - FTP: <ftp://ftp.etica.ai/pt/>
+  - SFTP: <sftp://ftp.etica.ai/pt/>
+- GitHub: <https://github.com/eticaai/ftp.etica.ai> (discussões e documentação de uso)
+
+#### inclusao.etica.ai
+> Recursos gratuitos de apoio à inclusão digital de pessoas desenvolvedoras de
+tecnologia. Este projeto é resultado de curadoria de conteúdo feita com zelo e
+carinho especialmente pensado para pessoas desenvolvedoras de software que,
+ainda que em caráter temporário, tenham que trabalhar com hardware e/ou
+conectividade à internet severamente limitados em relação ao comum em capitais
+tecnológicas.
+
+- Website: <https://inclusao.etica.ai>
+- GitHub:
+  - Acesso antecipado: <https://github.com/fititnt/inclusao-digital>
+  - Veja <https://inclusao.etica.ai/CONTRIBUTING.html#como-contribuir>
+    para saber como ter acesso.
+
 #### linguistic-datasets-pt
 > Linguistic Datasets for Portuguese: conjuntos de dados linguísticos para
 português (pt-AO, pt-BR pt-MZ e pt-PT) com licenças flexíveis: banco de dados,
@@ -126,15 +170,6 @@ implicações sociais no uso de tecnologia.
 - Website: <https://tags.etica.ai/#português>
 - GitHub: <https://github.com/fititnt/ais-ethics-tags>
 
-#### recursos-desenvolvimento-periferia
-> Recursos para pessoas desenvolvedoras de periferia
-
-- Website: <https://periferia.etica.ai>
-- GitHub: <https://github.com/fititnt/recursos-desenvolvimento-periferia> (*)
-
-Note: the periferia.etica.ai github project, at least on the beginning, is
-closed. One of the main reasons is prepare the project with feedback from
-several individuals.
 
 ### Sites em espanhol
 
@@ -193,6 +228,41 @@ artificial intelligence.
 - Site: <https://docs.etica.ai>
 - GitHub: <https://github.com/EticaAI/docs.etica.ai>
 
+#### ftp.etica.ai
+
+> Etica.AI main repository of files. It can be accessed both via anonymous FTP
+and by HTTP/HTTPS
+
+##### Mount ftp.etica.ai as one read-only local disk (RECOMMENDED!)
+
+- <ftp://ftp.etica.ai>
+- <sftp://ftp.etica.ai>
+    - Note: browsers like Chrome, Firefox, etc maybe not work with SFTP
+
+Anonymous FTP is enabled (it means you can access the files without one user and
+password). People can use Android, Linux file navigators, etc, to add the FTP /
+SFTP as a type of read-only extra disk.
+
+This method can be specially useful for who have very small disk space on
+smartphones. As reference, 4 GB is a popular storage size on Androids on
+Etica.AI target audicence on Africa.
+
+##### Access via HTTPS (or HTTP)
+- HTTP: <http://ftp.etica.ai>
+- HTTPS: <https://ftp.etica.ai>
+
+We use a [even more optimized version for low data usage](https://github.com/fititnt/cplp-aiops/issues/4#issuecomment-488220452)
+of the [lrsjng/h5ai](https://github.com/lrsjng/h5ai) (_"HTTP web server index
+for Apache httpd, lighttpd, nginx and Cherokee"_).
+
+The HTTPS/HTTP version does consume more data than the SFTP/FTP version, but
+have extra options, like search by file names and download selected files as
+a single zip file.
+
+##### Where the files are stored?
+The files of ftp.etica.ai are not on this repository, but on the [Mamba VPS](https://github.com/EticaAI/forum/issues/72).
+For who is interested, the setup of this repository is documented on the
+[cplp-aiops](https://github.com/fititnt/cplp-aiops) <sup>(destiny in Portuguese)</sup>.
 
 #### tags.etica.ai
 > A/IS Ethics Tags - Etica.AI is an initiative to facilitate search of content
