@@ -24,10 +24,13 @@ o impacto positivo de uso de tecnologia na sociedade**.
 <!-- TOC depthFrom:2 depthTo:5 -->
 
 - [A organização Etica.AI](#a-organização-eticaai)
-    - [Redes sociais da organização Etica.AI](#redes-sociais-da-organização-eticaai)
     - [E-mail da organização Etica.AI](#e-mail-da-organização-eticaai)
-    - [Infraestrutura](#infraestrutura)
     - [Financiamento](#financiamento)
+    - [Infraestrutura](#infraestrutura)
+    - [Licenças de trabalhos feitos em nome da Etica.AI](#licenças-de-trabalhos-feitos-em-nome-da-eticaai)
+        - [Domínio Público](#domínio-público)
+        - [Posso relicenciar trabalhos da Etica.AI?](#posso-relicenciar-trabalhos-da-eticaai)
+    - [Redes sociais da organização Etica.AI](#redes-sociais-da-organização-eticaai)
 - [Sites](#sites)
     - [Sites em português](#sites-em-português)
         - [ais-ethics-cplp](#ais-ethics-cplp)
@@ -65,18 +68,8 @@ o impacto positivo de uso de tecnologia na sociedade**.
 
 ## A organização Etica.AI
 
-### Redes sociais da organização Etica.AI
-
-- [Organização no GitHub: EticaAI](https://github.com/EticaAI)
-- [Página no Facebook: EticaAI](https://www.facebook.com/EticaAI)
-- [Conta no Twitter: EticaAI](https://twitter.com/EticaAI)
-- [Organização no LinkedIn: etica-ai](https://www.linkedin.com/company/etica-ai/)
-
 ### E-mail da organização Etica.AI
 - E-mail: **etica.of.a.ai(at)gmail.com**
-
-### Infraestrutura
-- [Etica.AI Infrastructure: Clusters & VPS](https://github.com/orgs/EticaAI/projects/2) <sup>Destino em Inglês</sup>
 
 ### Financiamento
 
@@ -88,7 +81,51 @@ o impacto positivo de uso de tecnologia na sociedade**.
     - Um exemplo seria o [Comitê Internacional da Cruz Vermelha](https://www.icrc.org/pt).
 - Os recursos usados pela Etica.AI que não sejam gratuitos são pagos pagos por
 voluntários (geralmente os próprios membos) e a anotação é feita publicamente,
-de forma que possa ser auditada, no [github.com/EticaAI/forum](https://github.com/EticaAI/forum).
+de forma que possa ser auditada, principalmente em
+[github.com/EticaAI/forum](https://github.com/EticaAI/forum/issues?q=is%3Aissue).
+
+### Infraestrutura
+- [Etica.AI Infrastructure: Clusters & VPS](https://github.com/orgs/EticaAI/projects/2) <sup>Destino em Inglês</sup>
+
+### Licenças de trabalhos feitos em nome da Etica.AI
+
+#### Domínio Público
+
+- Recomendação principal: **Domínio Público**
+  - **Unlicense**: <https://unlicense.org/>
+  - **CC0 1.0 Universal** (CC0 1.0) Dedicação ao Domínio Público: <https://creativecommons.org/publicdomain/zero/1.0/deed.pt>
+- Recomendações caso dedicação ao **Domínio Público** não seja viável:
+  - Escolher licença viável que seja mais próxima ao domínio público
+    - Se houver mais de uma opção, escolha àquela que tenderia ser usada em
+      trabalhos semelhantes e que facilite adoção.
+  - Caso não haja impedimento forte mesmo que o trabalho principal tenha sido
+    licenciado por opção não equivalente ao Domínio Público avise ao leitor
+    que se ele resolver dependência que impede o uso de domínio público, poderá
+    optar por licençar novo trabalho como bem entender.
+
+#### Posso relicenciar trabalhos da Etica.AI?
+**Sim, pode**. E você não precisa de autorização prévia para alterar licença
+de nossos trabalhos dedicados ao domínio publico para reusar em outros projetos.
+
+Sobre citar fonte: **atribuição de origem bem vinda, porém não é requerimento
+nem jurídico nem moral**. Em alguns casos você pode inclusive optar por não usar
+função "fork repository" de plataformas do GitHub e ter um projeto totalmente
+separado por organização totalmente diferente.
+
+<!--
+Em especial se for para uso final de impacto positivo na sociedade pode
+inclusive copiar parte ou totalidade de nossos trabalhos liberados sob domínio
+publico sem citar origem sem necessidade de pedir autorização ou se sentir
+constrangido.
+-->
+
+### Redes sociais da organização Etica.AI
+
+- [Organização no GitHub: EticaAI](https://github.com/EticaAI)
+- [Página no Facebook: EticaAI](https://www.facebook.com/EticaAI)
+- [Conta no Twitter: EticaAI](https://twitter.com/EticaAI)
+- [Organização no LinkedIn: etica-ai](https://www.linkedin.com/company/etica-ai/)
+
 
 ## Sites
 
