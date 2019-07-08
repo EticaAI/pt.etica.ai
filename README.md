@@ -27,10 +27,11 @@ o impacto positivo de uso de tecnologia na sociedade**.
     - [E-mail da organização Etica.AI](#e-mail-da-organização-eticaai)
     - [Financiamento](#financiamento)
     - [Infraestrutura](#infraestrutura)
-    - [Licenças de trabalhos feitos em nome da Etica.AI](#licenças-de-trabalhos-feitos-em-nome-da-eticaai)
-        - [Domínio Público](#domínio-público)
-        - [Posso relicenciar trabalhos da Etica.AI?](#posso-relicenciar-trabalhos-da-eticaai)
     - [Redes sociais da organização Etica.AI](#redes-sociais-da-organização-eticaai)
+- [Uso/reuso de trabalhos feitos em nome da Etica.AI](#usoreuso-de-trabalhos-feitos-em-nome-da-eticaai)
+    - [Etica.AI e o uso por padrão de dedicação ao Domínio Público](#eticaai-e-o-uso-por-padrão-de-dedicação-ao-domínio-público)
+    - [Posso relicenciar trabalhos da Etica.AI?](#posso-relicenciar-trabalhos-da-eticaai)
+    - [Tenho que atribuir origem de trabalhos da Etica.AI?](#tenho-que-atribuir-origem-de-trabalhos-da-eticaai)
 - [Sites](#sites)
     - [Sites em português](#sites-em-português)
         - [ais-ethics-cplp](#ais-ethics-cplp)
@@ -79,17 +80,40 @@ o impacto positivo de uso de tecnologia na sociedade**.
     para bem da sociedade, recomendamos que faça doações para organizações
     sérias ligadas a promoção de direitos humanos.
     - Um exemplo seria o [Comitê Internacional da Cruz Vermelha](https://www.icrc.org/pt).
-- Os recursos usados pela Etica.AI que não sejam gratuitos são pagos pagos por
-voluntários (geralmente os próprios membos) e a anotação é feita publicamente,
+- **Os recursos não gratuitos usados pela Etica.AI são pagos pagos por
+voluntários (geralmente os próprios membos)** e a anotação é feita publicamente,
 de forma que possa ser auditada, principalmente em
 [github.com/EticaAI/forum](https://github.com/EticaAI/forum/issues?q=is%3Aissue).
+
+<!--
+  - A listagem de membros é principalmente para mitigar acusações de conflito
+    de interesse.
+-->
 
 ### Infraestrutura
 - [Etica.AI Infrastructure: Clusters & VPS](https://github.com/orgs/EticaAI/projects/2) <sup>Destino em Inglês</sup>
 
-### Licenças de trabalhos feitos em nome da Etica.AI
+### Redes sociais da organização Etica.AI
 
-#### Domínio Público
+- [Organização no GitHub: EticaAI](https://github.com/EticaAI)
+- [Página no Facebook: EticaAI](https://www.facebook.com/EticaAI)
+- [Conta no Twitter: EticaAI](https://twitter.com/EticaAI)
+- [Organização no LinkedIn: etica-ai](https://www.linkedin.com/company/etica-ai/)
+
+## Uso/reuso de trabalhos feitos em nome da Etica.AI
+
+Os trabalhos feitos em nome da [Etica.AI](https://etica.ai) tendem fortemente
+a serem feitos pensando em servir de referência indireta para grupos e
+organizações que atendem publico final. Algumas vezes estes grupos/organizações
+ainda não existem. Algumas vezes estão restritos à tecnologia conhecida da
+respectiva época. Algumas vezes humanos com conhecimento chave estão em grupos
+de visão ideológica _divergente_ de outros para atingir um bem comum. Isso pode
+explicar algumas de nossas decisões a seguir:
+
+- Não fazemos questão de receber atribuição; fica a critério de quem usar/reusar
+- Mais motivos em breve...
+
+### Etica.AI e o uso por padrão de dedicação ao Domínio Público
 
 - Recomendação principal: **Domínio Público**
   - **Unlicense**: <https://unlicense.org/>
@@ -103,14 +127,20 @@ de forma que possa ser auditada, principalmente em
     que se ele resolver dependência que impede o uso de domínio público, poderá
     optar por licençar novo trabalho como bem entender.
 
-#### Posso relicenciar trabalhos da Etica.AI?
+### Posso relicenciar trabalhos da Etica.AI?
 **Sim, pode**. E você não precisa de autorização prévia para alterar licença
-de nossos trabalhos dedicados ao domínio publico para reusar em outros projetos.
+de nossos trabalhos dedicados ao domínio publico para reusar em outros projetos,
+em especial ideias já existentes.
 
-Sobre citar fonte: **atribuição de origem bem vinda, porém não é requerimento
-nem jurídico nem moral**. Em alguns casos você pode inclusive optar por não usar
-função "fork repository" de plataformas do GitHub e ter um projeto totalmente
-separado por organização totalmente diferente.
+### Tenho que atribuir origem de trabalhos da Etica.AI?
+**Atribuição de origem de nossos trabalhos dedicados ao domínio publico bem
+vinda, porém não é requerimento nem jurídico nem moral**.
+
+Em alguns casos você pode inclusive optar por explicitamente não usar função
+"fork repository" de plataformas do GitHub e ter um projeto totalmente separado
+por organização totalmente diferente. Pode também, mesmo em projetos novos,
+optar por importar código em apenas um commit sem ter todo histórico de
+alterações.
 
 <!--
 Em especial se for para uso final de impacto positivo na sociedade pode
@@ -119,12 +149,6 @@ publico sem citar origem sem necessidade de pedir autorização ou se sentir
 constrangido.
 -->
 
-### Redes sociais da organização Etica.AI
-
-- [Organização no GitHub: EticaAI](https://github.com/EticaAI)
-- [Página no Facebook: EticaAI](https://www.facebook.com/EticaAI)
-- [Conta no Twitter: EticaAI](https://twitter.com/EticaAI)
-- [Organização no LinkedIn: etica-ai](https://www.linkedin.com/company/etica-ai/)
 
 
 ## Sites
@@ -187,8 +211,8 @@ em inglês)</sup>).
 
 
 - Site:
-  - HTTPS: <https://livros.etica.ai/pt/>
-  - HTTP: <http://livros.etica.ai/pt/>
+  - HTTPS: <https://ftp.etica.ai/pt/>
+  - HTTP: <http://ftp.etica.ai/pt/>
   - FTP: <ftp://ftp.etica.ai/pt/>
   - SFTP: <sftp://ftp.etica.ai/pt/>
 - GitHub: <https://github.com/eticaai/ftp.etica.ai> (discussões e documentação de uso)
