@@ -24,6 +24,10 @@ o impacto positivo de uso de tecnologia na sociedade**.
 <!-- TOC depthFrom:2 depthTo:5 -->
 
 - [A organização Etica.AI](#a-organização-eticaai)
+    - [Redes sociais da organização Etica.AI](#redes-sociais-da-organização-eticaai)
+    - [E-mail da organização Etica.AI](#e-mail-da-organização-eticaai)
+    - [Infraestrutura](#infraestrutura)
+    - [Financiamento](#financiamento)
 - [Sites](#sites)
     - [Sites em português](#sites-em-português)
         - [ais-ethics-cplp](#ais-ethics-cplp)
@@ -60,11 +64,31 @@ o impacto positivo de uso de tecnologia na sociedade**.
 <!-- /TOC -->
 
 ## A organização Etica.AI
+
+### Redes sociais da organização Etica.AI
+
 - [Organização no GitHub: EticaAI](https://github.com/EticaAI)
 - [Página no Facebook: EticaAI](https://www.facebook.com/EticaAI)
 - [Conta no Twitter: EticaAI](https://twitter.com/EticaAI)
 - [Organização no LinkedIn: etica-ai](https://www.linkedin.com/company/etica-ai/)
+
+### E-mail da organização Etica.AI
 - E-mail: **etica.of.a.ai(at)gmail.com**
+
+### Infraestrutura
+- [Etica.AI Infrastructure: Clusters & VPS](https://github.com/orgs/EticaAI/projects/2) <sup>Destino em Inglês</sup>
+
+### Financiamento
+
+- **A Etica.AI não tem financiamento externo.**
+- **A Etica.AI não aceita doações em dinheiro**.
+  - Caso você tenha interesse na promoção de iniciativas de uso de tecnologia
+    para bem da sociedade, recomendamos que faça doações para organizações
+    sérias ligadas a promoção de direitos humanos.
+    - Um exemplo seria o [Comitê Internacional da Cruz Vermelha](https://www.icrc.org/pt).
+- Os recursos usados pela Etica.AI que não sejam gratuitos são pagos pagos por
+voluntários (geralmente os próprios membos) e a anotação é feita publicamente,
+de forma que possa ser auditada, no [github.com/EticaAI/forum](https://github.com/EticaAI/forum).
 
 ## Sites
 
